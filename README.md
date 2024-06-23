@@ -209,10 +209,10 @@ pause
 
 5. **Webサーバーの設定してください**
 
-###Pythonの設定環境は自分でお願いします
-###PHPとMySQLなどで、ローカル環境でデバッグするときは'「XAMPP」'をお勧めします。
+Pythonの設定環境は自分でお願いします
+PHPとMySQLなどで、ローカル環境でデバッグするときは'「XAMPP」'をお勧めします。
 https://www.apachefriends.org/index.html
 
-ご不明な点がありましたら、hi.snow714@gmailo.comまで連絡をお願いします。
+ご不明な点がありましたら、hi.snow714@gmail.comまで連絡をお願いします。
 
 🄫By Hijikinoheya
