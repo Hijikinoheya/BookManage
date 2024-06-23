@@ -147,7 +147,7 @@ connection = mysql.connector.connect(
 - ISBNコードは正確に入力してください。正確でない場合、書籍情報が正しく取得できないことがあります。
 
 ### MySQL
-これはMySQLにposts.sqlをインポートすれば完了です。
+これはMySQLにmysql.sqlをインポートすれば完了です。
 
 
 ### 必要なものと環境設定
